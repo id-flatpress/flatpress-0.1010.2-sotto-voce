@@ -1,6 +1,6 @@
 <?php
 /* 
-# Diterjemahkan oleh eggoez - http://goez.tk
+# Diterjemahkan oleh eggoez - http://goez.my.id
 # Bila ada kesalahan baik secara penulisan atau ucapan kata
 # Silahkan laporkan lewat e-mail di eggoez@yahoo.com
 # Hargailah Karya Orang Lain dengan tidak Merubah Isi &
