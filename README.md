@@ -1,2 +1,2 @@
-# flatpress-0.1010.2-sotto-voce
+# flatpress-0.1010.x S.V
 Bahasa Indonesia untuk FlatPress Versi 0.1010.2-sotto-voce (old)
